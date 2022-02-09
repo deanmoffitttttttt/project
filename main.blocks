@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="HCCAi3:NwD((j66AA5H-" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";Dl^;ZT{E$6!$!S?vH0/">userName</variable><variable id="%5p#r8#M0:RVsFBZbt]5">item</variable><variable id=")?Q$N9NF7`KY=!I37%dL">mySprite</variable><variable type="KIND_SpriteKind" id="sB_YyP2JwbE4zdn4lV02">Player</variable><variable type="KIND_SpriteKind" id="fpTCzTBX_zv-b6t:nw9S">Projectile</variable><variable type="KIND_SpriteKind" id="ML=3CF4)P?C6G,e[{lJn">Food</variable><variable type="KIND_SpriteKind" id="y^p+VJ^q2^xd0PZW]7l@">Enemy</variable></variables><block type="pxt-on-start" id="HCCAi3:NwD((j66AA5H-" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="7TTYN$FVya^xKy*X4d*4"><field name="VAR" id=")?Q$N9NF7`KY=!I37%dL">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="*3qaYdqyrNrWk1r{;/8X"><value name="img"><shadow type="screen_image_picker" id="xoLvg?lWr=!,CWvvZK)3"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"xoLvg?lWr=!,CWvvZK)3"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="bKv!!ZQ{BK4LL9q;i@^:"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="variables_set" id="q%!EhYE^x/i26jQ^Z[m9"><field name="VAR" id=";Dl^;ZT{E$6!$!S?vH0/">userName</field><value name="VALUE"><shadow type="math_number" id="J1fSlI[c4(C.aehnnRdM"><field name="NUM">0</field></shadow><block type="gameask" id="|2F]f2^cyB]DlUGyb7J}"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="title"><shadow type="text" id="vU~??=x7iHmVCy*zgB%K"><field name="TEXT">What is your name?</field></shadow><block type="gameaskforstring" id="{Z_!#3(b[5fE:z5Ym57~"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="message"><shadow type="text" id="yoTK(FBpDXG/Ei.s*!dY"><field name="TEXT">What is your name?</field></shadow></value></block></value></block></value></block></next></block></statement></block></xml>
