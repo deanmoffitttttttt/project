@@ -17,4 +17,4 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 let userName = game.ask(game.askForString("What is your name?"))
-scene.setBackgroundColor(13)
+scene.setBackgroundColor(2)
